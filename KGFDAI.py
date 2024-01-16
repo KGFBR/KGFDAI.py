@@ -208,11 +208,9 @@ while attemps < 12345677901:
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
         Logo
-\033[1;92mKK KK   GGGG  FFFFFFF    DDDDD     AAA   IIIII 
-\033[1;92m KK   GG  GG FF         DD  DD   AAAAA   III  
-\033[1;92m  KK KK GG      FFFF       DD   DD AA   AA  III  
-\033[1;92m KK  GG   GG FF         DD   DD AAAAAAA  III  
-\033[1;92m  KK  GGGGGG FF         DDDDDD  AA   AA IIIII
+print("\033[1;92mKK KK   GG  FF    DDDDD AAAAAAA  IIIIII
+print("\033[1;92m KK  GG   GG F    DDDDD AAAAAAA  IIIIII  
+print("\033[1;92m  KK  GGGGGG FF   DDDDDD AAAAAAA   IIIIII
                                              
                                          
                                                             
